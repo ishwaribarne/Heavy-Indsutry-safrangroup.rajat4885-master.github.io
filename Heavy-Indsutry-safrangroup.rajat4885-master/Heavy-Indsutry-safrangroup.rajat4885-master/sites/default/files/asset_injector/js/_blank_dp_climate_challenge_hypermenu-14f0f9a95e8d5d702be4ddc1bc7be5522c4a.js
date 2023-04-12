@@ -1,0 +1,1 @@
+(function($){$('a[href^="https://web.safran-group.com/defi-climat/"]').attr('target','_blank');console.info('AJ=DefClimat');})(jQuery);
